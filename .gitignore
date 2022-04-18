@@ -1,0 +1,61 @@
+.idea
+.idea/*
+./backend_brand/target
+./backend_brand/HELP.md
+!./backend_brand/.mvn/wrapper/maven-wrapper.jar
+!./backend_brand/**/src/main/**/target/
+!./backend_brand/**/src/test/**/target/
+
+### STS ###
+./backend_brand/.apt_generated
+./backend_brand/.classpath
+./backend_brand/.factorypath
+./backend_brand/.project
+./backend_brand/.settings
+./backend_brand/.springBeans
+./backend_brand/.sts4-cache
+
+### IntelliJ IDEA ###
+./backend_brand/.idea
+./backend_brand/*.iws
+./backend_brand/*.iml
+./backend_brand/*.ipr
+
+### NetBeans ###
+./backend_brand/nbproject/private/
+./backend_brand/nbbuild/
+./backend_brand/dist/
+./backend_brand/nbdist/
+./backend_brand/.nb-gradle/
+./backend_brand/build/
+!./backend_brand/**/src/main/**/build/
+!./backend_brand/**/src/test/**/build/
+
+### VS Code ###
+./backend_brand/.vscode/
+
+
+
+./frontend_brand/.DS_Store
+./frontend_brand/node_modules
+./frontend_brand/dist
+
+
+# local env files
+./frontend_brand/.env.local
+./frontend_brand/.env.*.local
+
+# Log files
+./frontend_brand/npm-debug.log*
+./frontend_brand/yarn-debug.log*
+./frontend_brand/yarn-error.log*
+./frontend_brand/pnpm-debug.log*
+
+# Editor directories and files
+./frontend_brand/.idea
+./frontend_brand/.vscode
+./frontend_brand/*.suo
+./frontend_brand/*.ntvs*
+./frontend_brand/*.njsproj
+./frontend_brand/*.sln
+./frontend_brand/*.sw?
